@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import libtcodpy as libtcod
 
 from input_handlers import handle_keys
