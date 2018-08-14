@@ -55,3 +55,6 @@ staticfiles
 .env
 
 /venv
+libctod.so*
+*.dll
+
